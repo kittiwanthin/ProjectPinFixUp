@@ -1,0 +1,14 @@
+{
+  "name": "PINFIXUP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/verify",
+      "proxyUrl": "https://api.nexmo.com/verify"
+    }
+  ],
+  "pro_id": "f967420a"
+}
